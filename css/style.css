@@ -1,0 +1,161 @@
+body {
+	font-size: 18px;
+	font-family: Open Sans;
+	margin: 0;
+	padding: 0;
+	background-color: hsl(193, 100%, 96%);
+}
+
+h3 {
+	font-family: Poppins;
+}
+.header-btn {
+	float: right;
+    font-weight: 300;
+    margin-right: 78px;
+    margin-top: 30px;
+    border-radius: 24px;
+    padding: 14px 48px;
+    background: hsl(0deg 0% 100%);
+    color: #0e1010;
+    border: white;
+    border-bottom: solid #b4f5f5;
+}
+
+.header-logo {
+	margin-left: 65px;
+	margin-top: 30px;
+}
+
+.hero-section {
+	height: 600px;
+    border-bottom: 1px solid grey;
+}
+
+.hero-box {
+	display: flex;
+	justify-content: space-between;
+	height: 600px;
+}
+
+.hero-content {
+	height: 600px;
+}
+.hero-title {
+	font-size: 42px;
+    margin-top: 168px;
+    margin-left: 65px;
+}
+
+.hero-desc {
+	margin-left: 65px;
+    margin-top: -10px;
+}
+
+._call-to-action {
+	margin-left: 65px;
+    border-radius: 24px;
+    padding: 16px 50px;
+    background: hsl(322, 100%, 66%);
+    color: hsl(193, 100%, 96%);
+    border: hsl(322deg 84% 49%);
+    font-family: Open Sans;
+}
+
+.hero-container-img {
+	margin-top: -74px;
+    /* margin-right: -211px; */
+    margin-left: -140px;
+    /* margin-bottom: -77px; */
+    /* height: 400px; */
+    height: 674px;
+    width: 116%;
+    position: absolute;
+}
+
+.hero-img {
+	position: relative;
+    margin-left: 155px;
+    height: 668px;
+    width: 86%;
+    z-index: -2;
+}
+
+.mockups-img {
+	height: 450px;
+    width: 42%;
+    float: right;
+    margin-top: -515px;
+    margin-right: 141px;
+    position: relative;
+}
+
+.main-body-section {
+	background: white;
+    /*margin-top: 160px;*/
+}
+
+._border-box {
+	margin-top: 20px;
+    background: white;
+}
+
+.main-box {
+	display: flex;
+    justify-content: space-around;
+    border: 3px solid #44494b1f;
+    border-radius: 8px;
+    /* border-style: solid; */
+    box-sizing: content-box;
+    /* background: white; */
+    margin: 10px 200px;
+    padding: 10px 28px;
+}
+
+.grow-img {
+	height: 250px;
+    margin-right: 10px;
+    padding: 20px 5px;
+}
+
+.grow-title {
+	margin-left: 86px;
+    margin-top: 100px;
+}
+
+.grow-desc {
+	margin-left: 86px;
+    margin-top: -10px;
+}
+
+.flow-img {
+	height: 250px;
+    margin-left: 80px;
+}
+
+.flow-title {
+	/*margin-right: 20px;*/
+	margin-left: 86px;
+    margin-top: 65px;
+}
+
+.flow-desc {
+	margin-left: 86px;
+    margin-top: -16px;
+}
+
+.user-title {
+	margin-left: 86px;
+    margin-top: 100px;
+}
+
+.user-desc {
+	margin-left: 86px;
+    margin-top: -10px;
+}
+
+.user-img {
+	height: 250px;
+    margin-right: 10px;
+    padding: 20px 5px;
+}
