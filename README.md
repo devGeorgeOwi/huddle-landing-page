@@ -1,3 +1,3 @@
 # huddle-landing-page
 
-Live link https://team1-huddle-landing-unextschool.netlify.app/
+Live link https://huddle-landingpage-nigeria.netlify.app/
